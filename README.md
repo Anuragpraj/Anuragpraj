@@ -1,4 +1,4 @@
-# Hi, I'm Anurag Prajapati 👋
+# Hi, I'm Anurag Prajapati 
 
 ### Software Engineer | Java • Spring Boot • Microservices | Python • SQL • GenAI
 
