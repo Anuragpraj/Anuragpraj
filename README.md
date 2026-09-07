@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I'm Anurag Prajapati 👋
 
-<!--
-**Anuragpraj/Anuragpraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | Java • Spring Boot • Microservices | Python • SQL • GenAI
 
-Here are some ideas to get you started:
+B.Tech CSE | PG-DAC (CDAC)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+I build backend and full-stack applications using Java, Spring Boot, Microservices and REST APIs, with additional hands-on experience in Python, SQL, Data Analytics and Generative AI.
+
+I'm focused on building practical software systems, solving technical problems, and exploring AI-powered applications.
+
+---
+
+## Tech Stack
+
+**Languages:** Java, Python, C++, SQL
+
+**Backend:** Spring Boot, Spring Security, REST APIs, Microservices, JPA/Hibernate
+
+**Databases:** PostgreSQL, MySQL, Oracle
+
+**Data & AI:** Pandas, NumPy, Power BI, Machine Learning, Generative AI, LLMs
+
+**Tools:** Docker, Git, GitHub, Linux, FastAPI
+
+---
+
+## Featured Projects
+
+### TeamFlow AI
+AI-powered project and workforce management platform built with Java, Spring Boot, Microservices, PostgreSQL and Docker.
+
+### DevCollab
+Real-time collaborative coding and code-review platform built using Java and Spring Boot.
+
+### JARVIS
+Agentic AI voice assistant integrating LLM APIs, tool calling, vector memory and automation workflows.
+
+### AI-Integrated Financial Risk Monitoring System
+Real-time transaction processing and AI-assisted financial risk monitoring system.
+
+---
+
+## Coding & Problem Solving
+
+- 200+ LeetCode problems solved
+- Java, Python and SQL problem solving
+- Focused on Data Structures, Algorithms and SQL
+
+---
+
+## Connect With Me
+
+[LinkedIn](YOUR_LINKEDIN_URL) • [LeetCode](YOUR_LEETCODE_URL)
