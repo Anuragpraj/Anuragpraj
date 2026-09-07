@@ -54,4 +54,4 @@ Real-time transaction processing and AI-assisted financial risk monitoring syste
 
 ## Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN_URL) • [LeetCode](YOUR_LEETCODE_URL)
+[LinkedIn]( https://www.linkedin.com/in/anurag-kumar-prajapati-7b826422b/ ) • [LeetCode]( https://leetcode.com/u/anupraj966/ )
