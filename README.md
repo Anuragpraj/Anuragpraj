@@ -2,7 +2,7 @@
 
 ### Software Engineer | Java • Spring Boot • Microservices | Python • SQL • GenAI
 
-B.Tech CSE | PG-DAC (CDAC)
+B.Tech CSE | PGCP-AC (CDAC)
 
 ---
 
